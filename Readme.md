@@ -1,5 +1,4 @@
 # NASA EONET
-# NASA-EONET-API-App
 
    [NASA API](https://eonet.gsfc.nasa.gov/docs/v3) to fetch imagery and location of Earth's observatory natural events
 
